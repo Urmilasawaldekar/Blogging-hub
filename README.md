@@ -18,12 +18,13 @@
 
 ## 📦 Features
 
-- ✅ JWT-based authentication (Register/Login)
-- 📝 Create, edit, and delete blog posts
+- ✅ JWT-based authentication  for both admin and user
+- 📝 Create, edit, and delete blog posts and comments c
 - 📁 Image upload using Multer
 - 🎨 Tailwind CSS for stylish and responsive UI
 - 🔍 RESTful API endpoints
 - 🌐 MongoDB integration
+- 
 
 ---
 
