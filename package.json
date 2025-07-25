@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "cookie-parser": "^1.4.7",
-    "exif-parser": "^0.1.12"
-  }
-}
